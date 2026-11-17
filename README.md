@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/<you>/erome-dl.git
+git clone https://github.com/cosmo-png/erome-dl.git
 cd erome-dl
 pip install .
 ```
